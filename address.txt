@@ -1,0 +1,2 @@
+get all tikets : http://localhost:4000/api/ticket/get-all-ticket
+get ticket by id : 
